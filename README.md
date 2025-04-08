@@ -18,7 +18,8 @@ Traditional hiring processes often suffer from human bias, inefficiency, and inc
 The current recruitment process lacks automation, objectivity, and adaptability to evaluate both technical and soft skills efficiently. There's a need for a structured, scalable, and intelligent system that ensures fair and effective hiring.
 
 ## Problem Creater's Organization
-Ministry of Defence
+
+Recruitment and Assessment Centre (RAC), DRDO – Ministry of Defence
 
 ## Idea
 **1.AI-Powered Interview Panel**
