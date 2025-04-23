@@ -1,10 +1,10 @@
 # Smart India Hackathon Workshop
 
-# Date: 27.03.2025
+# Date: 23.14.2025
 
-## Register Number: 212224040194
+## Register Number: 212223110041
 
-## Name: MOHAMED NIZAMUDDIN A
+## Name: REKLIES J
 
 ## Problem Title
 SIH 1653: AI-Driven Fair and Efficient Hiring System
